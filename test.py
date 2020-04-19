@@ -1,7 +1,3 @@
-# Python Tkinter and Sqlite3 Login Form
-# Made By Namah Jain Form Youtube Channel All About Code
-# Please Subscribe To Our Youtube Channel.
-# https://www.youtube.com/channel/UCUGAq4ALoWW4PDU6Cm1riSg?view_as=subscriber
 
 # imports
 from tkinter import *
